@@ -50,13 +50,13 @@ Three input datasets were generated to evaluate correctness and performance:
 
 ### ⏱️ Execution Time Comparison
 
-![Execution Time Comparison](ExecutionTimeComparison.png)
+![Execution Time Comparison](report/ExecutionTimeComparison.png)
 
 **Observation:** Kruskal is consistently faster, with the performance difference increasing as graph size grows.
 
 ### ⚙️ Operation Count Comparison
 
-![Operation Count Comparison](OperationCountComparison.png)
+![Operation Count Comparison](report/OperationCountComparison.png)
 
 **Observation:** Both algorithms perform similar numbers of operations, scaling linearly with edges.
 
